@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Strings do Projeto -->
+    <string name="appTitulo">Calculadora IMC</string>
+    <string name="btnSet">Calcular</string>
+    <string name="btnReset">Reiniciar</string>
+    <string name="textResultado">-----</string>
+    <string name="textHintPeso">Entre com Peso: </string>
+    <string name="textHintAltura">Entre com Altura:</string>
+    <string name="logo_desc">Logo</string>
+    <string name="btnAbrirCalculadora">Calculadora IMC</string>
+    <string name="class_abaixo">Abaixo do Peso</string>
+    <string name="msg_abaixo">Cuide-se bem, alimente-se melhor e mantenha hábitos saudáveis!</string>
+    <string name="tabelaIMC">Imagem de feedback IMC</string>
+    <string name="btn_fechar">Fechar</string>
+    <string name="altura_formatada">Altura: %1$s m</string>
+    <string name="peso_formatado">Peso: %1$s kg</string>
+    <string name="imc_formatado">IMC: %1$s</string>
+    <string name="class_normal">Peso Normal</string>
+    <string name="msg_normal">Continue mantendo um estilo de vida saudável. Você está no caminho certo!</string>
+    <string name="class_sobrepeso">Sobrepeso</string>
+    <string name="msg_sobrepeso">Que tal dar um foco maior em sua alimentação e hábitos saudáveis?</string>
+    <string name="class_obesidade1">Obesidade Grau 1</string>
+    <string name="msg_obesidade1">É importante cuidar da sua saúde e consultar um especialista. Você consegue!</string>
+    <string name="class_obesidade2">Obesidade Grau 2</string>
+    <string name="msg_obesidade2">Cuidar da sua saúde é fundamental. Procure um médico para orientações!</string>
+    <string name="class_obesidade3">Obesidade Grau 3</string>
+    <string name="msg_obesidade3">Sua saúde merece atenção. Procure ajuda médica e cuide-se!</string>
+
+    <!-- Cores do Projeto -->
+    <color name="appColorVerdeEscuro">#006341</color>
+    <color name="appColorVerdeClaro">#00A859</color>
+    <color name="appColorCinzaEscuro">#4D4D4D</color>
+    <color name="appColorCinzaClaro">#B3B3B3</color>
+    <color name="appColorBranco">#FFFFFF</color>
+
+    <color name="appBackGround">#E8EFE8</color>
+
+
+</resources>
